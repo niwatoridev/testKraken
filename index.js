@@ -1,7 +1,3 @@
-let ejemplo = x + y
-let x = 89
-let y = 812
+const canvas = document.getElementById("game");
 
-
-console.log(ejemplo)
-console.log(ejemplo)
+console.log(canvas);
